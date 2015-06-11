@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Xml.Linq;
 using NUnit.Framework;
 

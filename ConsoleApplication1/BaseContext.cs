@@ -19,7 +19,7 @@ namespace ConsoleApplication1
     {
         static BaseContext()
         {
-            //Database.SetInitializer<TContext>(null);
+            Database.SetInitializer<TContext>(null);
         }
 
         protected BaseContext()
